@@ -7,4 +7,4 @@ rem
 net start AtlassianBitbucketElasticsearch
 net start AtlassianBitbucket
 
-echo exit
+exit
